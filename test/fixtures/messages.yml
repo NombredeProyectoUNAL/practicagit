@@ -2,8 +2,8 @@
 
 one:
    : MyString
-  description: MyText
+  description: My description about IS2
 
 two:
-   : MyString
-  description: MyText
+   : MyString1
+  description: My description about IS2
