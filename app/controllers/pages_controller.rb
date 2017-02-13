@@ -5,6 +5,6 @@ class PagesController < ApplicationController
   def contactUS
   end
 
-  def aboutUs
+  def aboutUS
   end
 end
